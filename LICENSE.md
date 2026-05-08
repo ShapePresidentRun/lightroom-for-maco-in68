@@ -1,4 +1,4 @@
-
+Lightroom for macOS professional Addon: text-animation & stock-assets-integration is the best Lightroom for macOS addon, featuring text-animation and stock-assets-integration.
 
 
 
